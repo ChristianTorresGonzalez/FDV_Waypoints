@@ -9,4 +9,4 @@ Una vez instalada, lo segundo que deberemos hacer será crear un objeto vacio en
 
 ![Alt text](/img/waypoint2.png)
 
-![Alt text](/img/menu.gif)
+![Alt text](/img/waypoints.gif)
